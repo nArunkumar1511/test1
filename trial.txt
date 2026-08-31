@@ -1,1 +1,2 @@
 created trial.txt file
+changed the trial.txt file (altered)
